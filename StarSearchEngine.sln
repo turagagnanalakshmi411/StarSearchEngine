@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarSearchEngine", "StarSearchEngine\StarSearchEngine.csproj", "{4C1DADF1-8ECB-40FE-BF22-A96216614A26}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unittests", "Unittests\Unittests.csproj", "{B08CF375-8117-4FB5-8B9E-B017F1A2579A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarUnitTests", "StarUnitTests\StarUnitTests.csproj", "{8FD390FA-190B-4C5B-ADB4-1C0E8D96B71D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{4C1DADF1-8ECB-40FE-BF22-A96216614A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C1DADF1-8ECB-40FE-BF22-A96216614A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C1DADF1-8ECB-40FE-BF22-A96216614A26}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B08CF375-8117-4FB5-8B9E-B017F1A2579A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B08CF375-8117-4FB5-8B9E-B017F1A2579A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B08CF375-8117-4FB5-8B9E-B017F1A2579A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B08CF375-8117-4FB5-8B9E-B017F1A2579A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD390FA-190B-4C5B-ADB4-1C0E8D96B71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD390FA-190B-4C5B-ADB4-1C0E8D96B71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD390FA-190B-4C5B-ADB4-1C0E8D96B71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD390FA-190B-4C5B-ADB4-1C0E8D96B71D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
